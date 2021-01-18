@@ -2,6 +2,6 @@
 
 Strategic card game based on your favourite Kellogg's mascots!  
 
-####Roles:
+#### Roles:
 
 Nicole Shi - Lead Software Engineer and Project Manager  
