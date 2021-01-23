@@ -12,6 +12,11 @@ KNNOT'D [ **not**-id ] was founded in 2020 by six grade 12 students with the goa
 #### Roles:
 
 Nicole Shi - Lead Software Engineer and Project Manager  
+Nicolas Riccio - Lead Software Engineer and Project Manager  
+Darsh Gandhi - Software Engineer  
+Om Mistry - Software Engineer  
+Karan Hayer - Software Engineer  
+Timothy Njenga - Software Engineer  
 
 ## Demonstration
 
