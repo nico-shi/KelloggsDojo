@@ -22,3 +22,16 @@ Welcome to the Kellogg's Dojo! This is the home page where you can read the inst
 Beat King Kellogg's to earn points that will fill up your cereal bowl. When your cereal bowl is full you will upgrade your spoon!  
 
 <p align="center"><img width=70% src="https://github.com/nico-shi/KelloggsDojo/blob/main/src/main/resources/in_game.png"></p>
+
+## Installation
+
+#### Dependencies:
+
+apache-maven-3.6.3  
+
+#### Build/Run:
+
+```
+mvn clean install
+java -jar kelloggsDojo-0.0.1-SNAPSHOT-jar-with-dependencies.jar
+```
